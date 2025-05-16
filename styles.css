@@ -1,0 +1,59 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6f2ec;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background-image: url('background.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 80px;
+}
+
+main {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #d0ede2;
+    padding: 20px;
+    text-align: center;
+}
+
+footer form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+footer input, footer textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+footer button {
+    padding: 10px;
+    background-color: #5fb49c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
