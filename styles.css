@@ -1,59 +1,73 @@
-
+/* Global styles */
 body {
-    font-family: Century Gothic;
-    background-color: #3c4b33;
-    margin: 0;
-    padding: 0;
-    color: #336633;
+  margin: 0;
+  font-family: 'Century Gothic', 'Segoe UI', sans-serif;
+  background-color: #3c4b33;
+  color: #333;
 }
 
+/* Header styles */
 header {
-    background-image: url('https://github.com/bswain75/Align-Awaken-Website/blob/main/8121D071-8F1C-4093-9181-1818148A41D9%20(1).jpeg');
-    background-size: cover;
-    background-position: center;
-    color: #336633;
-    padding: 60px 20px;
-    text-align: center;
-    position: relative;
+  background-image: url('https://github.com/bswain75/Align-Awaken-Website/blob/main/8121D071-8F1C-4093-9181-1818148A41D9%20(1).jpeg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 100px 20px;
+  text-align: center;
 }
 
-.logo {
-    position: absolute;
-    top: 10px;
-    left: 10px;
-    height: 80px;
-}
-
+/* Main section styles */
 main {
-    padding: 20px;
-    background-color: #bfc694;
+  background-color: #bfc694;
+  padding: 40px 20px;
 }
 
+/* Footer styles */
 footer {
-    background-color: #eeeced;
-    padding: 20px;
-    text-align: center;
+  background-color: #bfc694;
+  color: #333;
+  text-align: center;
+  padding: 20px;
 }
 
-footer form {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    max-width: 400px;
-    margin: 0 auto;
+/* Contact form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin: auto;
 }
 
-footer input, footer textarea {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+input, textarea {
+  padding: 10px;
+  font-family: inherit;
 }
 
-footer button {
-    padding: 10px;
-    background-color: #bfc694;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
+button {
+  padding: 10px;
+  background-color: #3c4b33;
+  color: white;
+  border: none;
+  cursor: pointer;
 }
+
+button:hover {
+  background-color: #2f3a28;
+}
+
+/* Bio sections */
+.bio-section {
+  margin-bottom: 40px;
+}
+
+.bio-section h2 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+.bio-section p {
+  font-size: 1em;
+  line-height: 1.6;
+}
+
