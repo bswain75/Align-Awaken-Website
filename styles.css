@@ -25,7 +25,7 @@ main {
 /* Footer styles */
 footer {
   background-color: #3c4b33;
-  color: #336633
+  color: #eeeced
   text-align: center;
   padding: 20px;
 }
@@ -47,7 +47,7 @@ input, textarea {
 button {
   padding: 10px;
   background-color: #bfc694;
-  color: white;
+  color: #eeeced;
   border: none;
   cursor: pointer;
 }
