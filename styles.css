@@ -1,6 +1,6 @@
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Gisha, sans-serif;
     background-color: #e6f2ec;
     margin: 0;
     padding: 0;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-image: url('background.jpeg');
+    background-image: https://github.com/bswain75/Align-Awaken-Website/blob/main/8121D071-8F1C-4093-9181-1818148A41D9%20(1).jpeg('background.jpeg');
     background-size: cover;
     background-position: center;
     color: white;
@@ -26,7 +26,7 @@ header {
 
 main {
     padding: 20px;
-    background-color: #ffffff;
+    background-color: #FFFAF1;
 }
 
 footer {
