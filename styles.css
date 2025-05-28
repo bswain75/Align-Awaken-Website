@@ -1,7 +1,7 @@
 
 body {
-    font-family: Gisha;
-    background-color: #e6f2ec;
+    font-family: Century Gothic;
+    background-color: #3c4b33;
     margin: 0;
     padding: 0;
     color: #333;
@@ -26,11 +26,11 @@ header {
 
 main {
     padding: 20px;
-    background-color: #FFFAF1;
+    background-color: #bfc694;
 }
 
 footer {
-    background-color: #d0ede2;
+    background-color: #eeeced;
     padding: 20px;
     text-align: center;
 }
@@ -51,7 +51,7 @@ footer input, footer textarea {
 
 footer button {
     padding: 10px;
-    background-color: #5fb49c;
+    background-color: #bfc694;
     color: white;
     border: none;
     border-radius: 5px;
