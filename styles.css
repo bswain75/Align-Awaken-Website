@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: 'Century Gothic', 'Segoe UI', sans-serif;
   background-color: #3c4b33;
-  color: #333;
+  color: #336633;
 }
 
 /* Header styles */
@@ -18,14 +18,14 @@ header {
 
 /* Main section styles */
 main {
-  background-color: #bfc694;
+  background-color: white;
   padding: 40px 20px;
 }
 
 /* Footer styles */
 footer {
-  background-color: #bfc694;
-  color: #333;
+  background-color: #3c4b33;
+  color: #336633
   text-align: center;
   padding: 20px;
 }
