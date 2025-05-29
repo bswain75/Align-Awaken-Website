@@ -17,7 +17,7 @@ img {
 
 /* Logo styles */
 .logo {
-  width: 75%;
+  width: 100%;
   max-width: 120px;
   height: auto;
 }
@@ -99,7 +99,7 @@ button:hover {
 }
 
 .bio-image {
-  width: 100%;
+  width: 80%;
   max-width: 300px;
   margin-bottom: 15px;
   border-radius: 10px;
