@@ -5,7 +5,11 @@ body {
   background-color: #3c4b33;
   color: #336633;
 }
-
+/* Logo styles */
+logo {
+  width: 75%;
+  height: auto;
+}
 /* Header styles */
 header {
   background-image: url('images/background.jpg');
