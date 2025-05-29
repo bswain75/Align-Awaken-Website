@@ -30,7 +30,7 @@ main {
 /* Footer styles */
 footer {
   background-color: #3c4b33;
-  color: #eeeced
+  color: #eeeced;
   text-align: center;
   padding: 20px;
 }
@@ -77,7 +77,7 @@ button:hover {
 }
 
 .bio-image {
-  width: 40%
-  height: auto
+  width: 40%;
+  height: auto;
 }
 
