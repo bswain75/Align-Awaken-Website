@@ -8,8 +8,9 @@ body {
 
 /* Header styles */
 header {
-  background-image: url('https://github.com/bswain75/Align-Awaken-Website/main/images/background.jpg');
+  background-image: url('../images/background.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   color: #eeeced;
   padding: 100px 20px;
