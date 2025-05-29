@@ -76,3 +76,8 @@ button:hover {
   line-height: 1.6;
 }
 
+.bio-image {
+  width: 40%
+  height: auto
+}
+
