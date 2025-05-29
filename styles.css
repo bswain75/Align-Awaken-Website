@@ -6,7 +6,7 @@ body {
   color: #336633;
 }
 /* Logo styles */
-logo {
+.logo {
   width: 35%;
   height: auto;
 }
