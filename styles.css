@@ -52,13 +52,13 @@ input, textarea {
 button {
   padding: 10px;
   background-color: #bfc694;
-  color: #eeeced;
+  color: #2f3a28;
   border: none;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #2f3a28;
+  background-color: #eeeced;
 }
 
 /* Bio sections */
